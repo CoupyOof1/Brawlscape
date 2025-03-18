@@ -21,7 +21,7 @@ import random
 # Define tile types with a reduced chance of 't'
 TILES = [' ', ' ', ' ', 'X', 's', 'G']  # empty space, obstacle, start, goal (no 't' here for less ground)
 WIDTH, HEIGHT = 1000, 600  # Width of the world and the height based on the map's length
-
+# blah blah blah blah
 tile_size = 50
 map_width = WIDTH // tile_size
 map_height = HEIGHT // tile_size
